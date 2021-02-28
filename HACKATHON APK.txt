@@ -1,0 +1,2 @@
+apk:
+https://expo.io/artifacts/301faed9-9ee6-402c-930d-f6c48921d8a2
